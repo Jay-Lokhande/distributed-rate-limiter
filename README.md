@@ -305,7 +305,7 @@ done
 
 Expected: First 100 succeed, 101st returns 429.
 
-## ## Design Decisions & Tradeoffs
+## Design Decisions & Tradeoffs
 
 ### Q1: Why Token Bucket over Sliding Window?
 
